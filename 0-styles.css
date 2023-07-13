@@ -162,7 +162,7 @@ ul {
     }
     .menu a:hover {
         background-color: transparent;
-        color: var(--gray);
+        color: red;
     }
     .headp {
         display: none;
